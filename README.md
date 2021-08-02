@@ -1,2 +1,2 @@
-# taskr-server
+# typescript-node-template
 Created with CodeSandbox
