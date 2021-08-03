@@ -1,3 +1,6 @@
-import newTask from "./tasks/newTask";
+import Tasks from "./tasks";
+import db from "../dummyData/data";
 
-newTask({});
+const tasks = Tasks({ db });
+
+tasks.newTask({});
